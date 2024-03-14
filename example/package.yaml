@@ -1,0 +1,6 @@
+dependencies:
+  espcm3:
+    path: ..
+  pi4ioex:
+    url: github.com/informaticore/toit-pi4ioe5v9535
+    version: ^0.0.1

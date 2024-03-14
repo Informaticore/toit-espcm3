@@ -1,0 +1,6 @@
+name: espcm3
+description: Library to control make it easier to controll an ESP-CM3-S2 or S3 Board
+dependencies:
+  pi4ioex:
+    url: github.com/informaticore/toit-pi4ioe5v9535
+    version: ^0.0.1

@@ -1,0 +1,13 @@
+prefixes:
+  espcm3: ..
+  pi4ioex: toit-pi4ioe5v9535
+packages:
+  ..:
+    path: ..
+    prefixes:
+      pi4ioex: toit-pi4ioe5v9535
+  toit-pi4ioe5v9535:
+    url: github.com/informaticore/toit-pi4ioe5v9535
+    name: pi4ioex
+    version: 0.0.1
+    hash: 938fc02e616e730cc0e890367963b973a67604f5

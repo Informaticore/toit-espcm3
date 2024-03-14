@@ -1,4 +1,3 @@
-import i2c
 import espcm3
 
 main:
